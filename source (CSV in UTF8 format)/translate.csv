@@ -8,9 +8,9 @@
 6 months|6 mois
 Abort|Annuler
 About|A propos
-Achieved A Population Of|
+Achieved A Population Of|Avoir une population de
 Achieved The Selected Within|
-Acquire Technology From Other Companies|
+Acquire Technology From Other Companies|Acquérir des technologies concurrentes
 Add|Ajouter
 Add All|Ajouter tout
 Advertise|Publier
@@ -19,12 +19,12 @@ Advertising & PR Expense|Dépense publicitaire & RP
 Advertising cost (Cost per Thousand)|Prix de la publicité (coût pour 100)
 Advertising Cost (CPM)|Coût de la publicité (mensuel)
 Advertising Expense|Dépense publicitaire
-Advertising Unit|
+Advertising Unit| Unité publicitaire
 after|Après
 Aggressive|Aggressif
 AI Friendly Merger|Fusion des concurrents
-Air Conditioner|
-AIR CONDITIONER|
+Air Conditioner|Conditionneur d'air
+AIR CONDITIONER| CONDITIONNEUR D'AIR
 All|Tout
 All Available|Tout disponible
 All cities|Toutes les villes
@@ -32,21 +32,21 @@ All Cities|Toutes les villes
 All companies|Toutes les compagnies
 All Media Firms|Tous les médias
 All products|Tous les produits
-All suppliers|
-Alternative Stock Sim|Bourse alternative
+All suppliers|Tous les fournisseurs
+Alternative Stock Sim|Simulation alternative de la bourse
 Always|Toujours
-Always enable it|Toujours faire ça
+Always enable it|Toujours l'activer
 Annual Gross Profit|Bénéfice brut annuel
 Annual Net Profit|Bénéfice net annuel
 Annual Operating Profit|Bénéfice d'exploitation annuel
 Annual Operating Profit of Companies Under Your Control|Bénéfice d'exploitation annuel des compagnies sous votre contrôle
 Annual Operating Profit of Your Corporation|Bénéfice d'exploitation annuel de votre société
 Annual Profit|Bénéfice annuel
-Annual rent per square foot|
-Annual return|
+Annual rent per square foot|Rente annuelle par mètre carré
+Annual return|Rendement annuel
 Annual return on investment:|Retour sur investissement annuel
 Annual Revenue|Revenu annuel
-Annual Revenue of Companies Under Your Control|Revenu annuel des compagnies sous votre contrôle
+Annual Revenue of Companies Under Your Control|Revenu annuel des sociétés sous votre contrôle
 Annual Revenue of Your Corporation|Revenue annuel de votre société
 Annual Salary|Salaire annuel
 Annual Salary: |Salaire annuel:
@@ -56,30 +56,30 @@ Apparel Store|Magasin de vêtements
 Apply All|Appliquer à tout
 April|Avril
 Are you Certain that you wish to delete this person from the list?|Êtes-vous certain de vouloir supprimer cette personne de la liste ?
-Are you sure that you want to demolish the apartment and sell the land? \n \nThe land can be sold for|
-Are you sure that you want to demolish the commerical building and sell the land? \n \nThe land can be sold for|
-Are you sure that you want to demolish the mansion and sell the land? \n \nThe land can be sold for|
+Are you sure that you want to demolish the apartment and sell the land? \n \nThe land can be sold for|Êtes-vous certain de vouloir démolir l'immeuble et vendre le terrain ? \n \nLe terrain peut être vendu pour
+Are you sure that you want to demolish the commerical building and sell the land? \n \nThe land can be sold for|Êtes-vous certain de vouloir démolir le building et vendre le terrain ? \n \nLe terrain peut être vendu pour
+Are you sure that you want to demolish the mansion and sell the land? \n \nThe land can be sold for|Êtes-vous certain de vouloir démolir la maison et vendre le terrain ? \n \nLe terrain peut être vendu pour
 Are you sure that you want to demolish this \nfirm and sell the land for|
 Area.|Terrain.
 Area. Fields are Completely Stripped of Vegetation.|
 Ask Salary Raise|Demander une augmentation de salaire
-Assets Turnover|
+Assets Turnover|Rotation des actifs
 at|à
 Attitude Towards You|Attitude envers vous
 August|Août
 Auto Locate|
 Automobile|Automobile
 AUTOMOBILE|AUTOMOBILE
-Automobile Outlet|
+Automobile Outlet|Concession automobile
 Available|Disponible
 Average|Moyenne
-Average Unit Level|
-Average Utilization|
-Avg. Unit Level|
+Average Unit Level|Niveau moyen des unités
+Average Utilization|Utilisation moyenne
+Avg. Unit Level|Niveau moy. des unités
 Baby and Adult Livestock|
 Back|Retour
 back|retour
-Back Pack|
+Back Pack|Sac à dos
 Bad|Mauvais
 Badlands|
 Balance Sheet|Bilan financier
@@ -90,37 +90,37 @@ BANKRUPTCY!|BANQUEROUTE!
 BASIC|Basique
 Bath Lotion|Lotion de bain
 Bed|Lit
-Before hiring the new Chief Operating officer,  \n you must terminate the employment of the current one.|
+Before hiring the new Chief Operating officer,  \n you must terminate the employment of the current one.|Avant d'embaucher le nouveau Président, \n vous devez d'abord mettre fin au contrat actuel
 Beverage|Boissons
-bill|
+bill|milliard
 billion|milliard
 billion x 10|milliard x 10
 billion x 100|milliard x 100
-Billionaire 100|
-Billionaires 100|
+Billionaire 100|Top 100 milliardaires
+Billionaires 100|Top 100 milliardaires
 Blazer|Blouson
-Body Care Products|Produits Corporels
+Body Care Products|Soins du corps
 Bonus|Bonus
 Boom|Boom
-Borrow|
-Borrow/Repay Loan|
-Borrows|
-Both|
+Borrow|Emprunter
+Borrow/Repay Loan|Emprunter/Rembourser
+Borrows|Emprunts
+Both|tous deux
 Bottled Milk|Bouteille de lait
-Brand|
-Brand Awareness|
-Brand Loyalty|
-Brand Rating|
-Brand Strategy|
+Brand|Marque
+Brand Awareness|Réputation de la marque
+Brand Loyalty|Fidéalité à la marque
+Brand Rating|Evaluation de la marque
+Brand Strategy|Stratégie de la marque
 Bread|Pain
 Brief|
 BUILD|CONSTRUIRE
-Building costs:|Coûts de construction
+Building costs:|Coûts de construction:
 building factory input failed.|
 building farm input failed.|
 building raw input failed.|
 Building Size|Taille du bâtiment
-Building Types|Types de construction
+Building Types|Types de bâtiments
 buildings. You may acquire them for|
 Built with funds donated by:|Offert par:
 Business Assets|
@@ -339,14 +339,14 @@ CORPORATE COLOR|Couleur de la société
 Corporate Details|Détails de la société
 Corporate Income Statement|Situation de revenus
 CORPORATE LOGO|LOGO
-Corporation|
-Corporation            Price          Owned Qty      Owned%         Stock Value       Subsidiary|
+Corporation|Société
+Corporation            Price          Owned Qty      Owned%         Stock Value       Subsidiary|Société            Prix          Qté.Achetées      Possédé%         Valeur de l'action       Subsidiary
 Corporation / Subsidary|
 Corporation Name|Nom Corporation
 Corporation Takeover and Merger|
 corporation's stock performance.|
-Corporations|
-CORPORATIONS|
+Corporations|Sociétés
+CORPORATIONS|SOCIETES
 COSMETIC|COSMETIQUE
 Cosmetic Store|Magasin de cosmétique
 COSMETICS|COSMETIQUES
@@ -987,9 +987,9 @@ No. of Units|
 No. of Years|Durée (ans)
 No. of years given to achieve the goals|
 No. of Years of Operation|
-No. of years passed|
-No.of Employees|
-No.of Units|
+No. of years passed|Nb. d'années écoulées
+No.of Employees|Nb. d'employés
+No.of Units|Nb. d'unités
 None|Aucun
 Normal|Normal
 Normal Difficulty. Enjoyable for Most Players.|Difficulté normale. Jouable pour la plupart des joueurs.
@@ -1004,30 +1004,30 @@ Number of Seaports Importing Consumer Goods per City|Nombre de ports importants 
 Number of Seaports Importing Industrial Goods per City|Nombre de ports importants des matières premières par ville
 Number of Shares in Existence|
 Occasional|Parfois
-Occupancy|
-Occupancy graph|
-Occupancy Rate|
-Occupancy Rate:|
+Occupancy|Occupation
+Occupancy graph|Graphique de l'occupation
+Occupancy Rate|Taux d'occupation
+Occupancy Rate:|Taux d'occupation:
 October|Octobre
-of|
-of your company. \n|
+of|de
+of your company. \n|de votre société. \n
 Off|Off
-Offer|
-Offer now|
-Offer Price|
+Offer|Offre
+Offer now|Offrir maintenant
+Offer Price|Prix de l'offre
 Offer to Sell Firm|
 Office Space Demand|
 Office Space Supply|
 Oil Well|Puit de pétrole
-Ok|
-OK|
+Ok|Ok
+OK|OK
 On|On
 One|Un
-One Product|
+One Product|Un produit
 Ongoing donation|
 Ongoing donation Monthly operating funds:|
 Only Dominated|
-Opaque|
+Opaque|Opaque
 Operating Expenses|
 OPERATING EXPENSES|
 Operating Overhead|
@@ -1065,7 +1065,7 @@ Owned Stocks|
 Owner|
 Owner:|
 Ownership|Propriétaire
-P/E Ratio|
+P/E Ratio|P/E Ratio
 page %1d/%2d|
 Panic|
 Paper|Papier
@@ -1087,42 +1087,42 @@ Per Share|
 per share. \nWill you accept this offer?|
 Period:|
 Person Report|
-Personal Wealth|
-Personality|
+Personal Wealth|Richesse personnelle
+Personality|Personnalité
 PHOTO|Photo
 Photography products|Photographie
 Pig|Cochon
-Pigs|
+Pigs|Cochons
 PLANT|
 Plastic|Plastique
 PLASTIC|
-Play Scenario|
+Play Scenario|Jouer un scénario
 Player Controlled|
 Player Register|
 Player's Wealth ($million)|Fortune du joueur ($million)
-Please enter your name|
+Please enter your name|Entez votre nom
 Please select a location|
-Please select your name from this list|
+Please select your name from this list|Sélectionnez votre nom dans la liste
 Plentiful|
-Point|
-Points|
+Point|Point
+Points|Points
 Police Station|Commissariat de police
 Population|Population
-Population Growth|
-Population:|Population :
+Population Growth|Croissance de la population
+Population:|Population:
 Portable Media Player|
 PORTABLE MEDIA PLAYER|
-Position|
-POSITION VACANT|
-Pre-made|
+Position|Siège
+POSITION VACANT|Siège vacant
+Pre-made|Pré-fabriqué
 Prefer ordering from own warehouses over own factories|
-Preference|
-President|
-president|
-Prev|
-Previous|
-PREVIOUS|
-Previous Tip|
+Preference|Préférence
+President|Président
+president|président
+Prev|Préc.
+Previous|Précedent
+PREVIOUS|PRECEDENT
+Previous Tip|Astuce précédente
 Price|Prix
 Price    P/E    Owned%  Stock Value|
 Price Agreement|Accord de prix
@@ -1156,12 +1156,12 @@ Products sold in|
 Products with R&D Only|
 Profit|
 Profit Graph|
-Profit:|
+Profit:|Profit:
 Programming:|
-Progress|
+Progress|Progression
 Progress Indicator|
 Project Management:|
-Prosperous|
+Prosperous|Prospère
 PSEMI|
 Public Challenge Games|Jeux challenge publics
 Public Relations Department|
@@ -1260,7 +1260,7 @@ Retail Focused|
 Retail Store|
 Retail Store Type|Type de magasin
 retail stores.|
-Retailer|
+Retailer|Revendeur
 Retailing|Vente
 Retire|
 RETIRE|
@@ -1273,9 +1273,9 @@ Return on Total Assets|
 REVENUE|
 Revenue|
 Revenue Graph|
-Riots!|
-Rubber|
-RUBBER|
+Riots!|Emeutes!
+Rubber|Caoutchouc
+RUBBER|CAOUTCHOUC
 Rubber Plant|
 RUBBER PLANT|
 Salaries Expense|
@@ -1286,17 +1286,17 @@ Sales Revenue|
 Sales Unit|
 Same profile has already been created|
 Sandals|
-SANDALS|
-Save|
-Save Game|
-Save game|
-Save New|
-Scenario Editor|
+SANDALS|SANDALES
+Save|Sauvegarder
+Save Game|Sauvegarder
+Save game|Sauvegarder
+Save New|Nouvelle sauvegarde
+Scenario Editor|Editeur de scénario
 Scenario files not found.|
 Score|Score
 Score Report|
 SCORE REPORT|
-Score:|
+Score:|Score:
 Scrolling Method|
 Scrolling Speed|
 Seaport|Port
@@ -1382,13 +1382,13 @@ SPORT_EQ|
 SPORT_WE|
 Sports Facilities|
 Sports Store|
-SPORTS WATCH|
-Sports Watch|
+SPORTS WATCH|MONTRE DE SOIRT
+Sports Watch|Montre de sport
 Stadium|Stade
 Start|Commencer
 Static|
-Steel|
-STEEL|
+Steel|acier
+STEEL|ACIER
 Stock|
 Stock Assets|
 Stock Exchange|
